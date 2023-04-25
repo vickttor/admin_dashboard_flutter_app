@@ -1,4 +1,7 @@
+import 'package:admin_dashboard/controllers/MenuController.dart';
+import 'package:admin_dashboard/responsive.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 // Components
 import 'components/sidebar_menu.dart';
@@ -12,10 +15,12 @@ class MainScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      key: context.read<MyMenuController>().scaffoldKey,
+      drawer: SidebarMenu(),
       body: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Expanded(
+          if(Responsive.isDesktop(context)) Expanded(
             // default flex = 1
             // it takes 1/6
             child: SidebarMenu(),
