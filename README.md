@@ -1,16 +1,29 @@
-# admin_dashboard
+# Responsive Admin Dashboard with Flutter
 
-A new Flutter project.
+Project built by watching the ![The Flutter way](https://www.youtube.com/@TheFlutterWay) channel. In the video it was possible to learn about how to use the main basic widgets of the flutter framework besides to learn how to apply responsive to the page. 
 
-## Getting Started
+### Status
 
-This project is a starting point for a Flutter application.
+Finished 🚀
 
-A few resources to get you started if this is your first Flutter project:
+### Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Desktop Size](./.github/desktop-size.png)
+![Phone Size](./.github/tablet-size.png) ![Mobile Size](./.github/mobile-size.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Stack
+
+- google_fonts
+- flutter_svg
+- fl_chart
+- provider
+
+### Author
+
+<div>
+<img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/70340221?v=4"  width="100px;"  alt="Victor Silva"/>
+
+<sub><b>Victor Silva</b></sub>🚀
+</div>
+
+&copy; Directs To The Flutter Way Channel.
