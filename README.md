@@ -1,6 +1,6 @@
 # Responsive Admin Dashboard with Flutter
 
-Project built by watching the ![The Flutter way](https://www.youtube.com/@TheFlutterWay) channel. In the video it was possible to learn about how to use the main basic widgets of the flutter framework besides to learn how to apply responsive to the page. 
+Project built by watching the [The Flutter way](https://www.youtube.com/@TheFlutterWay) channel. In the video it was possible to learn about how to use the main basic widgets of the flutter framework besides to learn how to apply responsive to the page. 
 
 ### Status
 
